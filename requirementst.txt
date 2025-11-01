@@ -1,0 +1,9 @@
+langgraph
+langchain
+dotenv
+langchain_groq
+fastapi
+langchain-core
+langgraph-prebuilt
+langgraph-sdk
+uvicorn
