@@ -12,14 +12,16 @@ def input_processor_node(state: dict,  runtime: Runtime[ContextSchema]) :
     """
     Input processing node responsible for validating all the input recieved from the user and parsing it in required format for next step.
     """
-    state["llm"] = runtime.context.llm
-    llm_with_tools = state["llm"].bind_tools(input_tools)
-
+    # state["llm"] = runtime.context.llm
+    # llm_with_tools = state["llm"].bind_tools(input_tools)
+    llm_with_tools = runtime.context.llm.bind_tools(input_tools)
     input_processor_prompt = """
                                 You are an expert scenario-decider and input validator.
 
                                 <IMPORTANT>
                                 YOU CAN NOT DO ANY OF THE TASK ON YOUR OWN, ALL TASKS NEEDS TO BE PERFORMED BY THE TOOLS ONLY. 
+                                HOWEVER, IF THE USER'S QUERY IS INTENDED TOWARDS GENERAL CONVERSATION NOT ANYTHING SPECIFIC,
+                                YOU CAN ANSWER UPTO A POINT WHERE IT IS BECOMES ANYTHING SPECIC RELATED TO ORGANIZATION'S HIRING.
                                 </IMPORTANT>
 
                                 Your task is to:

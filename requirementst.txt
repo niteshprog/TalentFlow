@@ -7,3 +7,4 @@ langchain-core
 langgraph-prebuilt
 langgraph-sdk
 uvicorn
+langchain

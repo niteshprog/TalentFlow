@@ -1,6 +1,7 @@
 from fastapi import APIRouter
 from ..graph import agent
 from langgraph.types import Command
+from langchain.messages import HumanMessage
 from ..utils.llm_util import LLM_util
 
 llm = LLM_util().get_llm()
@@ -15,7 +16,7 @@ async def start_chat(thread_id: str, response: str = None):
         {
             "finished": False,
             "needs_human": False, 
-            "messages": []
+            "messages": [HumanMessage(content=response)]
         }, 
         config=thread_config, 
         context={"llm": llm}
