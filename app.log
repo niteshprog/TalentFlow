@@ -15,3 +15,17 @@
 2025-11-01 22:31:52,458 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
 2025-11-01 22:31:52,458 - INFO - Routed to Input Agent's tools.
 2025-11-01 22:31:52,458 - INFO - Tool name to be executed: scenario_decider
+2025-11-01 22:59:52,166 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-01 22:59:56,416 - INFO - Routed to Input Agent's tools.
+2025-11-01 23:00:44,117 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-01 23:00:46,311 - INFO - Routed to Input Agent's tools.
+2025-11-01 23:05:13,190 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-01 23:05:15,167 - INFO - Routed to Input Agent's tools.
+2025-11-01 23:05:28,843 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-01 23:05:30,664 - INFO - Routed to Input Agent's tools.
+2025-11-01 23:06:19,816 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-01 23:06:19,817 - INFO - Routed to Input Agent's tools.
+2025-11-01 23:06:40,478 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-01 23:06:42,068 - INFO - Routed to Input Agent's tools.
+2025-11-01 23:07:18,474 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-01 23:07:21,277 - INFO - Routed for human input from the input processing agent.

@@ -27,17 +27,18 @@ def scenario_decider(messages: list[BaseMessage], runtime: ToolRuntime[ContextSc
     return response.content
 
 @tool
-def input_validator(messages: list[BaseMessage], runtime: ToolRuntime[ContextSchema]):
+def input_validator(messages: list[BaseMessage], scenario: str, runtime: ToolRuntime[ContextSchema]):
     """
     Validates the details given in the query that every details is present or not and parses it to JSON for further processing.
 
     Args: 
         message(list[BaseMessage]): Whole conversation history.
+        scneario(str): Scenario decided on the basis of user's query.
     """
-    scenario = messages[-2].content
+    # scenario = messages[-2].content
     llm = runtime.context.llm
     validator_prompt = hiring_prompt if scenario == "scenario1" else resignation_prompt
-    response = llm.invoke(validator_prompt + "\nConversation trace:" + messages)
+    response = llm.invoke(validator_prompt + "\nConversation trace:" + str(messages))
     return response.content
 
 
