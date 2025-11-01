@@ -3,6 +3,8 @@ __pycache__/
 **/__pycache__/
 *.py[cod]
 
+#log files
+*.log
 
 *.ipynb
 # Virtual environments

@@ -17,8 +17,8 @@ def input_tools_excecutor(state: dict):
     for tool_call in state["messages"][-1].tool_calls:
         tool = tools_by_name[tool_call["name"]]
         logger.info(f"Tool name to be executed: {tool_call['name']}")
-        tools_call_args = {"messages": state["messages"]}
-        observation = tool.invoke(tools_call_args)
+        # tools_call_args = state["messages"]
+        observation = tool.invoke(tool_call["args"])
         logger.info(f"Tool: {tool_call['name']}\nTool output: {observation}")
         results.append(ToolMessage(content=observation, tool_call_id=tool_call["id"]))
     return {"messages": results}
