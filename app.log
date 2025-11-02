@@ -165,3 +165,94 @@
 2025-11-02 18:04:35,461 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
 2025-11-02 18:04:35,461 - INFO - Routed for human input from the input processing agent.
 2025-11-02 18:08:23,082 - INFO - Human input recieved: he will be a full time employee in engineering department reporting under Matt at pay of $100k
+2025-11-02 18:10:47,499 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:10:47,499 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:10:51,194 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:10:51,194 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:10:58,312 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:10:58,312 - INFO - Routed for human input from the input processing agent.
+2025-11-02 18:11:19,279 - INFO - Human input recieved: he will be a full time employee in engineering department reporting under Matt at pay of $100k
+2025-11-02 18:13:36,247 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:13:36,247 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:13:40,483 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:13:40,483 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:13:47,081 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:13:47,081 - INFO - Routed for human input from the input processing agent.
+2025-11-02 18:13:54,490 - INFO - Human input recieved: he will be a full time employee in engineering department reporting under Matt at pay of $100k
+2025-11-02 18:16:29,356 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:16:29,357 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:16:29,792 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:16:29,792 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:16:31,012 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:16:31,012 - INFO - Routed for human input from the input processing agent.
+2025-11-02 18:16:40,011 - INFO - Human input recieved: he will be a full time employee in engineering department reporting under Matt at pay of $100k
+2025-11-02 18:17:24,341 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:17:24,341 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:17:24,779 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:17:24,779 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:17:25,871 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:17:25,871 - INFO - Routed for human input from the input processing agent.
+2025-11-02 18:17:28,869 - INFO - Human input recieved: he will be a full time employee in engineering department reporting under Matt at pay of $100k
+2025-11-02 18:34:17,757 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:34:17,759 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:34:18,444 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:34:18,445 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:34:19,869 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:34:19,875 - INFO - Routed for human input from the input processing agent.
+2025-11-02 18:34:27,139 - INFO - Human input recieved: he will be a full time employee in engineering department reporting under Matt at pay of $100k
+2025-11-02 18:35:11,202 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:35:15,315 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:35:34,027 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:35:35,751 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:35:49,973 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:35:49,973 - INFO - Routed for human input from the input processing agent.
+2025-11-02 18:43:54,976 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:43:54,976 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:43:55,453 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:43:55,453 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:43:56,779 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:43:56,779 - INFO - Routed for human input from the input processing agent.
+2025-11-02 18:44:15,390 - INFO - Human input recieved: he will be a full time employee in engineering department reporting under Matt at pay of $100k
+2025-11-02 18:45:33,625 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:45:33,625 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:47:19,818 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:47:19,818 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:47:20,234 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:47:20,234 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:47:21,554 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:47:21,555 - INFO - Routed for human input from the input processing agent.
+2025-11-02 18:49:43,875 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:49:43,875 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:49:44,349 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:49:44,350 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:49:45,629 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:49:45,629 - INFO - Routed for human input from the input processing agent.
+2025-11-02 18:50:12,017 - INFO - Human input recieved: he will be a full time employee in engineering department reporting under Matt at pay of $100k
+2025-11-02 18:52:34,488 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:52:36,767 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:52:48,759 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:52:57,841 - INFO - Routed for human input from the input processing agent.
+2025-11-02 19:08:32,819 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 19:08:32,823 - INFO - Routed to Input Agent's tools.
+2025-11-02 19:08:33,221 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 19:08:33,221 - INFO - Routed to Input Agent's tools.
+2025-11-02 19:08:34,222 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 19:08:34,222 - INFO - Routed for human input from the input processing agent.
+2025-11-02 19:08:44,212 - INFO - Human input recieved: he will be a full time employee in engineering department reporting under Matt at pay of $100k
+2025-11-02 19:11:05,325 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 19:12:55,253 - INFO - Routed to Input Agent's tools.
+2025-11-02 19:13:22,636 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 19:13:22,636 - INFO - Routed for human input from the input processing agent.
+2025-11-02 20:30:13,449 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 20:30:13,449 - INFO - Routed to Input Agent's tools.
+2025-11-02 20:30:13,965 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 20:30:13,965 - INFO - Routed to Input Agent's tools.
+2025-11-02 20:30:15,049 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 20:30:15,049 - INFO - Routed for human input from the input processing agent.
+2025-11-02 20:30:36,628 - INFO - Human input recieved: he will be a full time employee in engineering department reporting under Matt at pay of $100k
+2025-11-02 20:31:11,302 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 20:31:14,338 - INFO - Routed to Input Agent's tools.
+2025-11-02 20:31:50,168 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 20:38:18,747 - INFO - Routed for human input from the input processing agent.
+2025-11-02 20:40:09,163 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 20:40:09,163 - INFO - Routed to Input Agent's tools.

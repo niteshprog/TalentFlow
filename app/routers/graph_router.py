@@ -16,7 +16,8 @@ async def start_chat(thread_id: str, response: str = None):
         {
             "finished": False,
             "needs_human": False, 
-            "messages": [HumanMessage(content=response)]
+            # "messages": [HumanMessage(content=response)]
+            "messages": [{"type": "user", "content": response}]
         }, 
         config=thread_config, 
         context={"llm": llm}
@@ -32,7 +33,8 @@ def continue_chat(thread_id: str, response: str):
     thread_config = {"configurable": {"thread_id": thread_id}}
     state = agent.invoke(
         Command(resume = response),
-        config=thread_config)
+        config=thread_config, 
+        context={"llm": llm})
 
     return {            
         "message": state["messages"][-1].content,

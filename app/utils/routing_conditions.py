@@ -59,7 +59,7 @@ def human_continuation(state: dict):
     """
     Logical flow to determine whether to continue after human input of not.
     """
-    last_message = state["message"][-1]
+    last_message = state["messages"][-1]
 
     if last_message.content == "finished":
         return "finished"
