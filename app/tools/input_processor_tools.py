@@ -6,6 +6,7 @@ from ..prompts.scenarios.input.scenario1 import prompt as hiring_prompt
 from ..prompts.scenarios.input.scenario2 import prompt as resignation_prompt
 from langchain_core.messages import BaseMessage
 from dataclasses import dataclass
+import json
 
 @dataclass
 class ContextSchema:
@@ -39,6 +40,6 @@ def input_validator(messages: list[BaseMessage], scenario: str, runtime: ToolRun
     llm = runtime.context.llm
     validator_prompt = hiring_prompt if scenario == "scenario1" else resignation_prompt
     response = llm.invoke(validator_prompt + "\nConversation trace:" + str(messages))
-    return response.content
+    return json.loads(response.content)
 
 

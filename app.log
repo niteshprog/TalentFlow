@@ -47,3 +47,121 @@
 2025-11-02 13:39:10,904 - INFO - Routed to Input Agent's tools.
 2025-11-02 13:39:35,875 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
 2025-11-02 13:39:37,959 - INFO - Routed for human input from the input processing agent.
+2025-11-02 16:38:16,533 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 16:38:16,533 - INFO - Routed to Input Agent's tools.
+2025-11-02 16:38:19,102 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 16:38:19,102 - INFO - Routed to Input Agent's tools.
+2025-11-02 16:39:10,201 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 16:39:10,201 - INFO - Routed for human input from the input processing agent.
+2025-11-02 16:39:53,806 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 16:39:53,806 - INFO - Routed to Input Agent's tools.
+2025-11-02 16:39:58,245 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 16:39:58,245 - INFO - Routed to Input Agent's tools.
+2025-11-02 16:40:17,718 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 16:40:17,718 - INFO - Routed for human input from the input processing agent.
+2025-11-02 16:53:21,862 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 16:53:21,862 - INFO - Routed to Input Agent's tools.
+2025-11-02 16:53:34,670 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 16:53:34,670 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:02:47,569 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:02:47,570 - INFO - Routed for human input from the input processing agent.
+2025-11-02 17:03:17,130 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:03:17,131 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:03:24,899 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:03:24,901 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:03:55,892 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:08:42,856 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:08:42,857 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:08:51,527 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:08:51,528 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:10:02,748 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:12:23,044 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:12:23,045 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:12:27,266 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:12:27,267 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:12:44,438 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:14:36,069 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:14:36,070 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:14:40,498 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:14:40,499 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:14:48,016 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:16:33,971 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:16:33,973 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:16:36,888 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:16:36,889 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:16:52,003 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:19:03,628 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:19:03,628 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:19:07,348 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:19:07,348 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:19:27,285 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:25:07,211 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:25:09,244 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:25:32,614 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:25:36,206 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:25:53,794 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:33:33,922 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:33:33,922 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:33:38,539 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:33:38,539 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:33:47,443 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:37:28,237 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:37:28,237 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:37:32,037 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:37:32,037 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:37:37,751 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:39:56,937 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:39:56,937 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:40:00,409 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:40:00,409 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:40:07,784 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:41:55,018 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:41:55,018 - INFO - Routed for human input from the input processing agent.
+2025-11-02 17:45:59,836 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:45:59,836 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:46:03,356 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:46:03,356 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:46:09,810 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:46:13,309 - ERROR - Error parsing JSON: Expecting value: line 1 column 1 (char 0)
+2025-11-02 17:47:22,765 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:47:22,765 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:47:26,886 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:47:26,887 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:47:33,897 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:47:54,159 - ERROR - Error parsing JSON: Expecting value: line 1 column 1 (char 0)
+2025-11-02 17:53:33,887 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:53:33,887 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:53:39,251 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:53:39,251 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:54:25,366 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:55:39,911 - ERROR - Error parsing JSON: Expecting value: line 1 column 1 (char 0)
+2025-11-02 17:56:38,187 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:56:38,187 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:56:42,234 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:56:42,235 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:56:53,910 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:57:48,681 - ERROR - Error parsing JSON: Expecting value: line 1 column 1 (char 0)
+2025-11-02 17:58:16,341 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:58:16,341 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:58:21,264 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:58:21,264 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:58:28,437 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:59:06,104 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:59:06,104 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:59:09,374 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:59:09,374 - INFO - Routed to Input Agent's tools.
+2025-11-02 17:59:26,138 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 17:59:31,930 - INFO - Routed for human input from the input processing agent.
+2025-11-02 18:02:55,145 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:02:55,145 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:02:59,282 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:02:59,283 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:03:05,379 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:03:05,379 - INFO - Routed for human input from the input processing agent.
+2025-11-02 18:04:25,281 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:04:25,281 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:04:28,954 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:04:28,954 - INFO - Routed to Input Agent's tools.
+2025-11-02 18:04:35,461 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 18:04:35,461 - INFO - Routed for human input from the input processing agent.
+2025-11-02 18:08:23,082 - INFO - Human input recieved: he will be a full time employee in engineering department reporting under Matt at pay of $100k

@@ -32,6 +32,13 @@ def input_processor_node(state: dict,  runtime: Runtime[ContextSchema]) :
 
                                     3. Map the validated input data into a structured JSON format.
                                     Follow these steps precisely.
+
+
+                                IF THE CONTENT OF LAST MESSAGE IN HISTORY IS DICTIONARY/JSON RECEIVED BY input_validator TOOL THEN 
+                                USING THE 'remarks' FIELD FROM THE DICTIONARY/JSON PHRASE A NATURAL LANGUAGE STATEMENT EXPLAINING THE 
+                                FIELD WHICH ARE MISSING.
+                                MAKE SURE JUST TO TALK ABOUT THE MISSING DATA AND ASKING THE USER TO PROVIDE THE DETAILS.
+                                RESPONSE SHOULD IN 'MARKDOWN' FORMATTING.
                             """
     
     response = llm_with_tools.invoke(
