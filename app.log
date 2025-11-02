@@ -29,3 +29,21 @@
 2025-11-01 23:06:42,068 - INFO - Routed to Input Agent's tools.
 2025-11-01 23:07:18,474 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
 2025-11-01 23:07:21,277 - INFO - Routed for human input from the input processing agent.
+2025-11-02 13:22:56,054 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 13:22:56,056 - INFO - Routed to Input Agent's tools.
+2025-11-02 13:23:05,533 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 13:23:05,533 - INFO - Routed to Input Agent's tools.
+2025-11-02 13:29:54,943 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 13:29:54,943 - INFO - Routed to Input Agent's tools.
+2025-11-02 13:29:58,314 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 13:29:58,314 - INFO - Routed to Input Agent's tools.
+2025-11-02 13:33:18,002 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 13:33:18,002 - INFO - Routed to Input Agent's tools.
+2025-11-02 13:33:20,569 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 13:33:20,571 - INFO - Routed to Input Agent's tools.
+2025-11-02 13:39:07,681 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 13:39:07,681 - INFO - Routed to Input Agent's tools.
+2025-11-02 13:39:10,904 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 13:39:10,904 - INFO - Routed to Input Agent's tools.
+2025-11-02 13:39:35,875 - INFO - Last message recieved to Input routing logic: <class 'langchain_core.messages.ai.AIMessage'>
+2025-11-02 13:39:37,959 - INFO - Routed for human input from the input processing agent.
